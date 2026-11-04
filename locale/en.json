@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Clean Up Sessions",
+    "description": "Adds a \"Clean up sessions\" action above Reload page in the sidebar footer: scans empty, orphaned and message-less session directories, previews them with per-item checkboxes, and deletes only the ticked ones."
+  }
+}
